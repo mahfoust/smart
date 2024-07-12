@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <section id="page-ten" style="height: 150vh;">
+        <div style="text-align: center; flex: 1 0 90%;">
+            <div style="flex: 0 0 10%;">
+                <footer style="background-color: #3B65ED;">
+                    <div
+                        style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin: 0 2rem;">
+                        <button
+                            style="font-size: 0.95rem; background-color: #EBCF52; color: #3B65ED; padding: 0.5rem 1rem; border-radius: 20px; border: 1px solid #EBCF52; font-weight: 600;">Click
+                            for WhatsApp
+                        </button>
+
+                        <p style="color: #fff; font-weight: 500;">0141 473 6400</p>
+
+                        <p style="color: #fff; font-weight: 500;">team@smartsalesandinvestments.com</p>
+                    </div>
+                </footer>
+            </div>
+            <div
+                style="background-color: #3B65ED; color: #ffffff;text-align: center;padding:1rem 2rem; font-size: 1rem; border-radius: 45px; margin: 2rem;">
+                <p>
+                    Want to learn more about the <span style="font-weight: 700;">flip</span> investment
+                    strategy? <a style="font-weight: 600;color: #fff;" href="">Click here</a> to get our <span
+                        style="font-weight: 700;">free guide!</span>
+                </p>
+            </div>
+            <div style="display: flex; justify-content: space-between;margin: 2rem;">
+                <div style="width: 27%;">
+                    <table
+                        style="border-collapse: collapse; border: 2px solid #ffffff; table-layout: auto; width: 100%; font-size: 1.2rem; color: white;">
+                        <caption
+                            style="border: 2px solid #3B65ED; border-bottom: none; padding: 0.8rem 0.5rem; font-weight: 600; color: #fff;background-color: #3B65ED;">
+                            Cash Purchase
+                        </caption>
+                        <tbody>
+
+                            <tr>
+                                <td
+                                    style="border: 2px solid #3B65ED;background-color: #ffffff; color: #3B65ED; padding: 0.8rem 0.5rem;  font-size: 15px; font-weight: 800;">
+                                    Profit
+                                </td>
+                                <td
+                                    style="border: 2px solid #3B65ED; background-color: #ffffff; color:#85CA71;padding: 0.8rem 0.5rem; font-weight: 800;">
+                                    &pound;450</td>
+                            </tr>
+
+                            <tr>
+                                <td
+                                    style="border: 2px solid #3B65ED; background-color: #ffffff; color: #3B65ED; padding: 0.8rem 0.5rem; font-size: 15px; font-weight: 800;">
+                                    Return on Capital Employed</td>
+                                <td
+                                    style="border: 2px solid #3B65ED; background-color: #ffffff; color:#85CA71;  padding: 0.8rem 0.5rem; font-weight: 800;">
+                                    12%
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div style="width: 40%; ">
+                    <table
+                        style="border-collapse: collapse; border: 2px solid #fff; table-layout: auto; width: 100%; font-size: 1.2rem; color: #3B65ED;">
+                        <caption
+                            style="border: 2px solid #3B65ED; border-bottom: none; padding: 0.8rem 0.5rem; font-weight: 600;">
+                            Monthly Running Cost</caption>
+
+                        <tbody>
+
+
+
+                            <tr>
+                                <td
+                                    style="border: 2px solid #3B65ED; border-right: none; background-color:#3B65ED; color:#fff; margin: 0; padding: 0; font-weight: 800;">
+                                    <p style="margin: 0"> Interest Payment</p>
+                                    <hr style="border: 1.5px solid #ffffff;" />
+
+                                </td>
+
+
+                                <td
+                                    style="border-top: 2px solid #3B65ED;  border-right: 2px solid #3B65ED;  background-color: #fff; color:#3B65ED; padding: 0 1rem;  font-weight: 800;">
+                                    &pound;100
+
+                                </td>
+
+
+                            </tr>
+
+
+                            <tr>
+                                <td
+                                    style="border: 2px solid #3B65ED; border-right: none; background-color:#3B65ED; color:#fff; padding: 0; font-weight: 800;">
+                                    <p style="margin: 0">Council Tax</p>
+
+                                    <hr style="border: 1.5px solid #ffffff;" />
+
+                                </td>
+                                <td
+                                    style="border-right: 2px solid #3B65ED;  background-color: #ffffff; color:#3B65ED; padding: 0 1rem; font-weight: 800;">
+                                    &pound;20
+                                </td>
+                            </tr>
+
+                            <tr>
+                                <td
+                                    style="border: 2px solid #3B65ED; border-right: none; background-color:#3B65ED; color:#fff;padding: 0; font-weight: 800;">
+                                    <p style="margin: 0">Utilities</p>
+
+
+
+                                </td>
+                                <td
+                                    style="border-right: 2px solid #3B65ED;border-bottom: 2px solid #3B65ED; ;background-color: #ffffff; color:#3B65ED;padding: 0 1rem; font-weight: 800;">
+                                    &pound;30
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div style="width: 27%;">
+                    <table
+                        style="border-collapse: collapse; border: 2px solid #ffffff; table-layout: auto; width: 100%; font-size: 1.2rem; color: white;">
+                        <caption
+                            style="border: 2px solid #3B65ED; border-bottom: none; padding: 0.8rem 0.5rem; font-weight: 600; color: #fff;background-color: #3B65ED;">
+                            Finance Purchase
+                        </caption>
+                        <tbody>
+
+                            <tr>
+                                <td
+                                    style="border: 2px solid #3B65ED;background-color: #ffffff; color: #3B65ED; padding: 0.8rem 0.5rem; font-size: 15px; font-weight: 800;">
+                                    Profit
+                                </td>
+                                <td
+                                    style="border: 2px solid #3B65ED; background-color: #ffffff; color:#85CA71;padding: 0.8rem 0.5rem; font-weight: 800;">
+                                    &pound;450</td>
+                            </tr>
+
+                            <tr>
+                                <td
+                                    style="border: 2px solid #3B65ED; background-color: #ffffff; color: #3B65ED; padding: 0.8rem 0.5rem; font-size: 15px; font-weight: 800;">
+                                    Return on Capital Employed</td>
+                                <td
+                                    style="border: 2px solid #3B65ED; background-color: #ffffff; color:#85CA71;  padding: 0.8rem 0.5rem; font-weight: 800;">
+                                    12%
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+            <div style="width: 37%; margin-left: 25rem; margin-bottom: 2rem;">
+                <table
+                    style="border-collapse: collapse; border: 2px solid #fff; table-layout: auto; width: 100%; font-size: 1.2rem; color: #3B65ED;">
+                    <caption
+                        style="border: 2px solid #3B65ED; border-bottom: none; padding: 0.8rem 0.5rem; font-weight: 600;">
+                        Monthly Running Cost</caption>
+
+                    <tbody>
+
+
+
+                        <tr>
+                            <td
+                                style="border: 2px solid #3B65ED; border-right: none; background-color:#3B65ED; color:#fff; margin: 0; padding: 0; font-weight: 800;">
+                                <p style="margin: 0"> Interest Payment</p>
+                                <hr style="border: 1.5px solid #ffffff;" />
+
+                            </td>
+
+
+                            <td
+                                style="border-top: 2px solid #3B65ED;  border-right: 2px solid #3B65ED;  background-color: #fff; color:#3B65ED; padding: 0 1rem;  font-weight: 800;">
+                                &pound;100
+
+                            </td>
+
+
+                        </tr>
+
+
+                        <tr>
+                            <td
+                                style="border: 2px solid #3B65ED; border-right: none; background-color:#3B65ED; color:#fff; padding: 0; font-weight: 800;">
+                                <p style="margin: 0">Council Tax</p>
+
+
+                            </td>
+                            <td
+                                style="border-right: 2px solid #3B65ED;  border-bottom: 2px solid #3B65ED; background-color: #ffffff; color:#3B65ED; padding: 0 1rem; font-weight: 800;">
+                                &pound;20
+                            </td>
+                        </tr>
+
+                    </tbody>
+                </table>
+
+            </div>
+
+            <div
+                style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;  background-color: #3B65ED; position: relative; top: 6rem; ">
+                <img style="margin-left: 2rem;" src="./smart-sales-and-investments.png"
+                    alt="Smart Sales And Investments" />
+                <h2
+                    style="background-color:#ffffff; color: #3B65ED; padding: 1rem 3rem;margin-right: 2rem; font-size: 1.8rem; border-radius: 60px;">
+                    Flip Returns
+                </h2>
+
+            </div>
+        </div>
+    </section>
+
+</body>
+
+</html>
